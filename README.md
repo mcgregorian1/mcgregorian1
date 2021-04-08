@@ -1,4 +1,13 @@
-### Hi there 👋
+### Hi!! 👋
+
+🌱 I'm Ian, a current PhD student at North Carolina State University in [Geospatial Analytics](https://cnr.ncsu.edu/geospatial/). 
+
+🌎 As a NASA Future Investigator, I'm researching how best to improve near real-time forest disturbance monitoring using multi-source satellite data. This involves a mix of Google Earth Engine, R, some Python, and other coding things that I used to swear I was not smart enough to understand. Prior to immersing myself in remote sensing, I worked with the Smithsonian Conservation Biology Institute ([SCBI](https://nationalzoo.si.edu/conservation)) as a forest ecology research analyst in a long-term ecological monitoring plot ([ForestGEO](https://forestgeo.si.edu/sites/north-america/smithsonian-conservation-biology-institute)). Between that experience and my MSc dissertation work in central Gabon, I primarily consider myself a forest ecologist who's been given the opportunity to see how much cool stuff can be done with satellites.
+
+🌴 People say I like making lists
+- I don't know why 🤷‍♀️
+
+Pronouns: He/him
 
 <!--
 **mcgregorian1/mcgregorian1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
